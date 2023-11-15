@@ -1,0 +1,64 @@
+*{
+padding: 0px;
+margin: 0px;
+background-color: purple;
+}
+.header-logo{
+padding-top:20px ;
+/* padding-left: 1145px; */
+display: flex;
+}
+.header-logo2{
+    background: white;
+    width: auto;
+    height: 100px;
+}
+.header-logo img{
+    width: 150px;
+    height: 150px;
+}
+.logo img{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 550px;
+    margin-top: 50px;
+    
+}
+.cuakss{
+    margin-left:300px;
+    font-weight: bold;
+}
+.cuakss h1{
+    margin-left: 286px;
+}
+.box-card1{
+    border-radius: 10px;
+    box-shadow: 15px 10px rgb(73, 73, 73);
+    background-color: #031540;
+    width: 200px;
+    height: 300px;
+    margin-bottom:20px ;
+}
+.box-card2{
+    border-radius: 10px;
+    box-shadow: 15px 10px rgb(73, 73, 73);
+    background-color: #031540;
+    width: 200px;
+    height: 300px;
+    margin-bottom:20px ;
+}
+.box-card3{
+    border-radius: 10px;
+    box-shadow: 15px 10px rgb(73, 73, 73);
+    background-color: #031540;
+    width: 200px;
+    height: 300px;
+    margin-bottom:20px ;
+}
+.container-box{
+    display: flex;
+    gap: 300px;
+    padding-left: 30px;
+    padding-top: 80px;
+}
